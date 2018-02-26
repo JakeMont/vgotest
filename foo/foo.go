@@ -4,4 +4,4 @@ import (
 	"github.com/JakeMont/vgotest/bar"
 )
 
-var Version = "foo one, plus: " + bar.Identifier
+var Version = "foo two, plus: " + bar.Identifier

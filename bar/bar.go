@@ -1,4 +1,4 @@
 package bar
 
-const Identifier = "bar at one"
+const Identifier = "bar at two"
 

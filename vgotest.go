@@ -1,3 +1,3 @@
 package vgotest
 
-const Version = "three"
+const Version = "2(two)"
